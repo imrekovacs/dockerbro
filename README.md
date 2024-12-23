@@ -129,13 +129,3 @@ docker stop <container-id>
   docker run -p 8081:5000 ok-bro-app
   ```
 
----
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-## Contributions
-Feel free to fork the repository and submit pull requests. Contributions are welcome!
-
